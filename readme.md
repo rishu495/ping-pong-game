@@ -1,4 +1,4 @@
-<!-- How to Play this Game -->
+                                          <!-- How to Play this Game -->
 
 
 1. Press Enter to Start
